@@ -1,0 +1,16 @@
+.stat-container {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 20px 0;
+  max-width: 600px; 
+}
+
+.statistic-box {
+  margin-top: 10px;
+}
+
+select {
+  margin: 10px 0; 
+  padding: 5px;
+}
